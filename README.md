@@ -36,6 +36,8 @@ The script will start the password distribution process and display the progress
 
 - **Disclaimer**: The author of this script are not responsible for any misuse, damage, or illegal activities caused by the use of this script. Use it at your own risk.
 
+- **Happy Testing and be responsible!**
+
   ## Contributing
 
  - Contributions to this script are welcome! Feel free to customize and expand this documentation to meet your specific needs.
